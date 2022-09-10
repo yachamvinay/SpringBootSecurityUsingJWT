@@ -19,6 +19,7 @@
     - Open new tab in Postman and pass the param values as uname and password and give the url as below
     
         **http://localhost:8080/login**
-    -If you gave the correcr credentials then it will give 200 OK as response.
+        
+    - If you gave the correcr credentials then it will give 200 OK as response.
     
     
